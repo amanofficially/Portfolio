@@ -9,7 +9,7 @@ tailwind.config = {
                 Ovo: ["Ovo", "serif"]
             },
             animation:{
-                spin_slow: 'spin 3s linear infinite'
+                spin_slow: 'spin 7s linear infinite'
             },
             colors:{
                 lightHover: '#fcf4ff',
